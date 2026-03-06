@@ -1,10 +1,10 @@
 Configuration example file.
 
 Slack bot token example:
-xoxb-EXAMPLE-NOT-A-REAL-TOKEN
+xoxb-99999999999-88888888888-abcdefghijklmnopqrstuvwx
 
 AWS key example:
-AKIA_EXAMPLE_KEY_NOT_REAL
+AKIA1234567890ABCDE1
 
 Mailgun API key example:
-key-EXAMPLE-MAILGUN-KEY
+key-abcdefabcdefabcdefabcdefabcdefab
