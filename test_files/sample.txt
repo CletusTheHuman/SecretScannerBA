@@ -1,16 +1,16 @@
 This file contains fake test secrets.
 
-Google API key:
-AIza12345678901234567890123456789012345
+Google API key example:
+AIza_EXAMPLE_KEY_NOT_REAL
 
-GitHub token:
-ghp_123456789012345678901234567890123456
+GitHub token example:
+ghp_EXAMPLE_TOKEN_NOT_REAL
 
-Slack bot token:
-xoxb-12345678901-12345678901-abcdefghijklmnopqrstuvwx
+Slack bot token example:
+xoxb-EXAMPLE-NOT-A-REAL-TOKEN
 
-AWS access key:
-AKIA1234567890ABCDEF
+AWS access key example:
+AKIA_EXAMPLE_KEY_NOT_REAL
 
-Mailgun key:
-key-1234567890abcdef1234567890abcdef
+Mailgun key example:
+key-EXAMPLE-MAILGUN-KEY
