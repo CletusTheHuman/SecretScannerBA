@@ -1,0 +1,16 @@
+This file contains fake test secrets.
+
+Google API key:
+AIza12345678901234567890123456789012345
+
+GitHub token:
+ghp_123456789012345678901234567890123456
+
+Slack bot token:
+xoxb-12345678901-12345678901-abcdefghijklmnopqrstuvwx
+
+AWS access key:
+AKIA1234567890ABCDEF
+
+Mailgun key:
+key-1234567890abcdef1234567890abcdef
