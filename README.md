@@ -16,3 +16,7 @@ HOW IT WORKS
    - The file name
    - The line number
    - The detected key
+
+SCAN COMMANDS
+- python secretscan.py test_files (Selected Folder)
+- python secretscan.py test_files/sample.txt (Selected File in Folder)
