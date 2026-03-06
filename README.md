@@ -1,6 +1,6 @@
 Secret ScannerBA is a python command line tool that scans files or folders for hardcoded secrets such as api keys or tokens.
 
-It scans for patterns including
+It scans for patterns including:
 - Google api keys
 - Github personal access tokens
 - Slack bot tokens
