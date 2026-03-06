@@ -10,7 +10,7 @@ It scans for patterns including
 
 HOW IT WORKS
 1. The user provides a file or folder path using the command line
-2. the program scans the file or every file in the folder
+2. The program scans the file or every file in the folder
 3. Each line is checked against the regex patterns
 4. If a match is found the program reports:
    - The file name
